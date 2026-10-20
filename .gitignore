@@ -87,3 +87,9 @@ htmlcov/
 *.zip
 
 *.pt
+
+# YOLO 导出产物与数据集下载缓存
+*.onnx
+*.engine
+dataset_download/
+runs/

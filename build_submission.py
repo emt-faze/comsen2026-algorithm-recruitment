@@ -27,6 +27,7 @@ REPORTS = [
     ("task3报告.docx", [os.path.join(BASE_DIR, "task3", "报告.md"),
                         os.path.join(BASE_DIR, "task3", "q1_concepts.md")]),
     ("task4报告.docx", [os.path.join(BASE_DIR, "task4_timeseries", "报告.md")]),
+    ("task4_yolo报告.docx", [os.path.join(BASE_DIR, "task4_yolo", "报告.md")]),
 ]
 
 VIDEOS = [
