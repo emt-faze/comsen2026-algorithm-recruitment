@@ -1,3 +1,4 @@
+# 基础依赖（task1 ~ task3）
 numpy
 pandas
 matplotlib
@@ -5,3 +6,13 @@ opencv-python
 pillow
 pyarrow
 torch
+torchvision
+
+# task4 方向三：时序模型
+# （LSTM 只用 torch，无需额外依赖）
+
+# task4 方向一：YOLO 无人机识别
+ultralytics
+onnx
+onnxruntime-gpu
+onnxslim
